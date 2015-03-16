@@ -1,0 +1,17 @@
+{
+  "name": "MyNewNodeProject",
+  "version": "0.1.0",
+  "description": "I am creating a node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Library",
+    "node",
+    "does",
+    "stuff"
+  ],
+  "author": "Aanchal Jindal",
+  "license": "Apache"
+}
