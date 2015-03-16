@@ -13,5 +13,8 @@
     "stuff"
   ],
   "author": "Aanchal Jindal",
-  "license": "Apache"
+  "license": "Apache",
+  "devDependencies": {
+    "mocha": "~2.2.1"
+  }
 }
